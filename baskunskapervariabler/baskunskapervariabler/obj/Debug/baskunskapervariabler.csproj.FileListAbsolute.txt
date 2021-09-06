@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\obj\Debug\baskunskapervariabler.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\obj\Debug\baskunskapervariabler.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\bin\Debug\baskunskapervariabler.exe.config
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\bin\Debug\baskunskapervariabler.exe
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\bin\Debug\baskunskapervariabler.pdb
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\obj\Debug\baskunskapervariabler.exe
+C:\Users\Alex\source\repos\baskunskapervariabler\baskunskapervariabler\obj\Debug\baskunskapervariabler.pdb

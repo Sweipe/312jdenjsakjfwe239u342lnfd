@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baskunskapervariabler", "baskunskapervariabler\baskunskapervariabler.csproj", "{2E0B56E2-82CA-4891-B537-0856E449CB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0B56E2-82CA-4891-B537-0856E449CB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0B56E2-82CA-4891-B537-0856E449CB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0B56E2-82CA-4891-B537-0856E449CB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0B56E2-82CA-4891-B537-0856E449CB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C35273-5964-47A8-B677-DB807839B86D}
+	EndGlobalSection
+EndGlobal
