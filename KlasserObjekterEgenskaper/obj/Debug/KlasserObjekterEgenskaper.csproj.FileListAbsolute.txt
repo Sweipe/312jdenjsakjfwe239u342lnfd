@@ -1,0 +1,7 @@
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\bin\Debug\KlasserObjekterEgenskaper.exe.config
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\bin\Debug\KlasserObjekterEgenskaper.exe
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\bin\Debug\KlasserObjekterEgenskaper.pdb
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\obj\Debug\KlasserObjekterEgenskaper.csprojAssemblyReference.cache
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\obj\Debug\KlasserObjekterEgenskaper.csproj.CoreCompileInputs.cache
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\obj\Debug\KlasserObjekterEgenskaper.exe
+C:\Users\alex.luu\source\repos\KlasserObjekterEgenskaper\obj\Debug\KlasserObjekterEgenskaper.pdb
