@@ -1,0 +1,7 @@
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\obj\Debug\ScopesAndModifiers.csprojAssemblyReference.cache
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\obj\Debug\ScopesAndModifiers.csproj.CoreCompileInputs.cache
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\bin\Debug\ScopesAndModifiers.exe.config
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\bin\Debug\ScopesAndModifiers.exe
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\bin\Debug\ScopesAndModifiers.pdb
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\obj\Debug\ScopesAndModifiers.exe
+C:\Users\alex.luu\source\repos\ScopesAndModifiers\obj\Debug\ScopesAndModifiers.pdb
