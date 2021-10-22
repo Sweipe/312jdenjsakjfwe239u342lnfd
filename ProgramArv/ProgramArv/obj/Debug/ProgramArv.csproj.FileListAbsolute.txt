@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\bin\Debug\ProgramArv.exe.config
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\bin\Debug\ProgramArv.exe
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\bin\Debug\ProgramArv.pdb
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\obj\Debug\ProgramArv.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\obj\Debug\ProgramArv.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\obj\Debug\ProgramArv.exe
+C:\Users\Alex\source\repos\ProgramArv\ProgramArv\obj\Debug\ProgramArv.pdb
