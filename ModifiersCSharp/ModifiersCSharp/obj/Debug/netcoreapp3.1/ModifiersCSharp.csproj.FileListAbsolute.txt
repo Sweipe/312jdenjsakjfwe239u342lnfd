@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.exe
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.deps.json
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.runtimeconfig.json
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.dll
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\bin\Debug\netcoreapp3.1\ModifiersCSharp.pdb
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.dll
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.pdb
+C:\Users\Alex\source\repos\ModifiersCSharp\ModifiersCSharp\obj\Debug\netcoreapp3.1\ModifiersCSharp.genruntimeconfig.cache
