@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Alex's Collection</title>
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="style.css">
+		<script src="script.js"></script>
+	</head>
+	<!--Search() anropar alla kolumner i tabellen-->
+	<body onload="Search()">
+		<form action="">
+			<label for="name">Keyword:</label>
+			<input type="text" id="titlekey" onkeyup="Search(this.value)"><br>
+		</form>
+		<div id="content">
+		</div>
+	</body>
+</html>
