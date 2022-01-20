@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,15 +17,19 @@ namespace TryCatchCSharp
 
             void Secure()
             {
-                try
+                while (true)
                 {
-                    Console.Write("(Säker)  Skriv in ett tal som talet 10 kan divideras med:");
-                    int num = 10/int.Parse(Console.ReadLine());
-                    Console.WriteLine($"Felfritt, resultatet blev {num}");
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("Ett fel uppstod med ditt tal");
+                    try
+                    {
+                        Console.Write("(Säker)  Skriv in ett tal som talet 10 kan divideras med:");
+                        int num = 10 / int.Parse(Console.ReadLine());
+                        Console.WriteLine($"Felfritt, resultatet blev {num}");
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Ett fel uppstod med ditt tal, startar om funktion...");
+                    }
                 }
             }
 
