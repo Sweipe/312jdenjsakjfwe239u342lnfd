@@ -1,8 +1,5 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Reflection;
 
 namespace TryCatch2
@@ -110,20 +107,21 @@ namespace TryCatch2
 
             void CreateGroup() {
                 Console.WriteLine("Creating group... ");
-                Console.WriteLine("Name of group: ");
+                Console.Write("Name of group: ");
                 string name = Console.ReadLine();
-                Console.WriteLine("Number of members: ");
+                Console.Write("Number of members: ");
                 int amount = int.Parse(Console.ReadLine());
                 string[] group = new string[amount];
                 for (int i = 0; i < amount; i++) {
-                    Console.WriteLine($"{i + 1} of {amount}, name: ");
+                    Console.Write($"{i + 1} of {amount}, name: ");
                     group[i] = Console.ReadLine();
                 }
                 groups.Add(name, group);
+                Console.WriteLine("Group added.");
             }
 
             void ReadGroup() {
-                Console.WriteLine("Seek group by name:");
+                Console.Write("Seek group by name: ");
                 string name = Console.ReadLine();
                 foreach(string member in groups[name]) {
                     Console.WriteLine(member);
